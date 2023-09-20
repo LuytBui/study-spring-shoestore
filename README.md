@@ -1,3 +1,8 @@
+# Fork messages...
+Xem youtube thấy video này nói về project structure hay quá nên fork về để tìm hiểu
+[Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+
+
 # Welcome to the Spring Shoe Store!
 
 > A demonstration app built for Spring I/O 2023 to present Clean Architecture principles in Spring
